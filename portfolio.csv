@@ -1,0 +1,5 @@
+Stock,Quantity,Price (USD),Investment (USD)
+AAPL,3,180.00,540.00
+TSLA,2,250.00,500.00
+MSFT,5,350.00,1750.00
+TOTAL,,,2790.00
